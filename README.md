@@ -11,40 +11,40 @@ https://gitee.com/liuzhipin/vuechat
 
 (图中输入密码黑屏是因为我用小米手机录屏输入密码的时候自动屏蔽了..小米这个功能做的很贴心啊)
 
-![输入图片说明](http://liuzhipin.gitee.io/images/img/1.gif "在这里输入图片标题")
+![app演示动图](http://liuzhipin.gitee.io/images/img/1.gif "在这里输入图片标题")
 
 
 ### 下面我图方便就在浏览器端使用了
 
 
-![输入图片说明](http://liuzhipin.gitee.io/images/img/2.gif  "在这里输入图片标题")
+![pc端演示动图](http://liuzhipin.gitee.io/images/img/2.gif  "在这里输入图片标题")
 
-![输入图片说明](http://liuzhipin.gitee.io/images/img/3.gif "在这里输入图片标题")
+![pc端演示动图](http://liuzhipin.gitee.io/images/img/3.gif "在这里输入图片标题")
 
 ### 目前的接口:
 
 
-![输入图片说明](http://liuzhipin.gitee.io/images/img/6.jpg  "在这里输入图片标题")
+![接口文档截图](http://liuzhipin.gitee.io/images/img/6.jpg  "在这里输入图片标题")
 
 
 ### 截图
 
 
-![输入图片说明](http://liuzhipin.gitee.io/images/img/4.jpg  "在这里输入图片标题")
+![app,pc截图展示](http://liuzhipin.gitee.io/images/img/4.jpg  "在这里输入图片标题")
 
-![输入图片说明](http://liuzhipin.gitee.io/images/img/5.jpg  "在这里输入图片标题")
+![app,pc截图展示](http://liuzhipin.gitee.io/images/img/5.jpg  "在这里输入图片标题")
 
-![输入图片说明](http://liuzhipin.gitee.io/images/img/7.jpg  "在这里输入图片标题")
+![app,pc截图展示](http://liuzhipin.gitee.io/images/img/7.jpg  "在这里输入图片标题")
 
-![输入图片说明](http://liuzhipin.gitee.io/images/img/8.jpg  "在这里输入图片标题")
+![app,pc截图展示](http://liuzhipin.gitee.io/images/img/8.jpg  "在这里输入图片标题")
 
-![输入图片说明](http://liuzhipin.gitee.io/images/img/9.jpg  "在这里输入图片标题")
+![app,pc截图展示](http://liuzhipin.gitee.io/images/img/9.jpg  "在这里输入图片标题")
 
-![输入图片说明](http://liuzhipin.gitee.io/images/img/10.jpg  "在这里输入图片标题")
+![app,pc截图展示](http://liuzhipin.gitee.io/images/img/10.jpg  "在这里输入图片标题")
 
-![输入图片说明](http://liuzhipin.gitee.io/images/img/11.jpg  "在这里输入图片标题")
+![app,pc截图展示](http://liuzhipin.gitee.io/images/img/11.jpg  "在这里输入图片标题")
 
-![输入图片说明](http://liuzhipin.gitee.io/images/img/12.jpg  "在这里输入图片标题")
+![app,pc截图展示](http://liuzhipin.gitee.io/images/img/12.jpg  "在这里输入图片标题")
 
 
 ### ======分割线======
@@ -63,4 +63,4 @@ https://gitee.com/liuzhipin/vuechat
 
 愿意的话请加我微信拉你入群(请备注:仿微信和加我的来源)
 
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0307/141356_0a75ac7e_467718.jpeg "mine.jpg")
+![加我入群获取源码](https://images.gitee.com/uploads/images/2020/0307/141356_0a75ac7e_467718.jpeg "mine.jpg")
