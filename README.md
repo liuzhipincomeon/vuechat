@@ -1,7 +1,7 @@
 # vuechat
 vue+springboot 仿微信登录聊天，朋友圈
 ### 如果图片无法显示的话是github原因,请移步gitee
-https://gitee.com/liuzhipin/vuechat/blob/master/README.md
+https://gitee.com/liuzhipin/vuechat
 
 我是做java 的,最近公司要求用vue做一套管理系统,我学了一星期vue 就开始做了.最近由于疫情待在家,就撸了一个仿照微信的项目
 使用 vue ,springboot ,mysql,后台用netty 做消息处理,并且可以打包成apk 在手机上使用
